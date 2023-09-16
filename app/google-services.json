@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787007768157",
+    "project_id": "pixou-7bef3",
+    "storage_bucket": "pixou-7bef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787007768157:android:4367147689da1abe4f2fb4",
+        "android_client_info": {
+          "package_name": "com.example.pixou_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSZBkPAVBHp-9QASBWvEAx96Ce4xSqws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
